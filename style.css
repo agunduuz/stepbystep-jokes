@@ -52,7 +52,7 @@ body h2 p {
   position: relative;
   margin-bottom: 30px;
   max-width: 100%;
-  width: 350px;
+  width: 550px;
 }
 .progress-container::before {
   content: '';
@@ -103,7 +103,7 @@ body h2 p {
   margin: 5px;
   font-weight: 500;
   font-family: inherit;
-  font-size: 17px;
+  font-size: 20px;
   width: 50%;
 }
 .btn:active {
@@ -126,7 +126,7 @@ body h2 p {
   padding: 50px 20px;
   text-align: center;
   max-width: 100%;
-  width: 400px;
+  width: 600px;
   height: 250px;
   margin-bottom: 20px;
 }
@@ -134,10 +134,11 @@ h3 {
   margin: 0;
   opacity: 0.5;
   color: #fff;
+  font-size: 26px;
   letter-spacing: 2px;
 }
 .joke {
-  font-size: 20px;
+  font-size: 24px;
   letter-spacing: 1px;
   line-height: 40px;
   margin: 0px auto;
@@ -157,5 +158,6 @@ h3 {
   }
   .jokeBox {
     width: 300px;
+    height: 50%;
   }
 }
